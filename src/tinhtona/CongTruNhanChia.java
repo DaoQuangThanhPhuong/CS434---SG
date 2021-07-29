@@ -23,4 +23,8 @@ public class CongTruNhanChia {
 		int s = a - b;
 		return s;
 	}
+	public static int Nhan(int a,int b) {
+		int s = a * b;
+		return s;
+	}
 }
